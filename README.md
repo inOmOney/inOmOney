@@ -1,16 +1,14 @@
+
 ### Hi there 👋
 
-<!--
-**inOmOney/inOmOney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right"  width="400px" src="https://raw.githubusercontent.com/inOmOney/imgbed/master/2021-02/developer-github.gif"  />
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭*Gopher* &  *Javaer*
+- 🌱Open source fancier
+- 🔥 Zhb-mall https://github.com/inOmOney/zhb-mall
+- 🔥 NQ-SERVER https://github.com/inOmOney/NQ-SERVER
+- :book:blog https://blog.zhb.cool
+- 🏠 Homepage at https://zhb.cool
+- 📫 How to reach me: iszhou.b@gmail.com
